@@ -1,0 +1,12 @@
+---
+
+name: AI
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - xlrd
